@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\bin\Debug\net6.0\cSharp-HashSet.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\bin\Debug\net6.0\cSharp-HashSet.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\bin\Debug\net6.0\cSharp-HashSet.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\bin\Debug\net6.0\cSharp-HashSet.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\bin\Debug\net6.0\cSharp-HashSet.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\cSharp-HashSet.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\cSharp-HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\cSharp-HashSet.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\cSharp-HashSet.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\cSharp-HashSet.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\cSharp-HashSet.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\refint\cSharp-HashSet.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\cSharp-HashSet.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\cSharp-HashSet.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HashSet\obj\Debug\net6.0\ref\cSharp-HashSet.dll
